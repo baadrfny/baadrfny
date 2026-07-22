@@ -1,7 +1,9 @@
-# Hi 👋, I'm Badr
+👋 Hi, I'm Badr
 
-Full Stack Developer | Java • Spring Boot • Angular • Laravel
+Full Stack Developer
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics">
-</p>
+⌨️ Java | Spring Boot | Angular | Laravel
+
+📊 GitHub Stats
+🔥 Streak
+💻 Top Languages
