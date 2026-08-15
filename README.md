@@ -1,125 +1,52 @@
 <div align="center">
-
-# Hi 👋, I'm Badr Fenni
-
-### 💻 Full Stack Developer | Java • Spring Boot • Angular • Laravel
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Laravel+Developer;Always+Learning+New+Technologies" />
-
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
-
----
-
-```text
-██████╗  █████╗ ██████╗ ██████╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-██████╔╝███████║██║  ██║██████╔╝██████╔╝
-██╔══██╗██╔══██║██║  ██║██╔══██╗██╔══██╗
-██████╔╝██║  ██║██████╔╝██║  ██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-```yaml
-Name:          Badr Fenni
-Role:          Full Stack Developer
-Location:      Morocco 🇲🇦
-Languages:     English, French, Arabic
-Experience:    Java • Spring Boot • Angular • Laravel
-Current Focus: Backend Development
-Open To:       Internship | Freelance | Remote Work
-```
-
----
-
-# 🚀 Tech Stack
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=baadrfny&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=baadrfny&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baadrfny&layout=compact&theme=tokyonight)
-
----
-
-# ⚡ Current Mission
-
-```text
-[██████████░░░░░░░░░░] Learning Spring Security
-[██████████████░░░░░] Building Full Stack Apps
-[██████████████████] Looking for Opportunities
-```
-
----
-
-# 📁 Featured Projects
-
-🚀 Digital Agency Management Platform
-
-🏥 Medicare Reservation Platform
-
-🛒 Laravel E-Commerce
-
-📝 Quiz Platform
-
-🚗 Car Reservation System
-
----
-
-# 📈 Coding Activity
-
-```text
-Java          ████████████████████ 40%
-Angular       ███████████████      30%
-Laravel       █████████            15%
-JavaScript    ███████              10%
-Other         ██                    5%
-```
-
----
-
-# 🌐 Connect With Me
-
-📧 badrfny.dev@gmail.com
-
-💼 LinkedIn
-
-🌍 Portfolio
-
----
-
+<br/>
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=baadrfny&color=blue)
-
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
+<br/>
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+<br/>
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+<br/>
+
+## About
+
+**Ingénieur Logiciel Full-Stack** — Développeur autodidacte passionné, formé à YouCode, spécialisé dans la conception et le déploiement de systèmes full-stack robustes et prêts pour la production.
+
+### Highlights
+
+- **Full-Stack Engineer** maîtrisant Java Spring Boot, PHP/Laravel et JavaScript/React
+- **MediCare** — Système de gestion de données médicales avec API REST et tableau de bord admin en temps réel
+- **Glorvia Media** — Plateforme d'agence digitale multi-modules (Spring Boot, Angular, PostgreSQL, Docker)
+- **LocalMart** — Marketplace e-commerce multi-vendeurs avec RBAC et paiements sécurisés via Stripe
+- **HamburgCar** — Plateforme de location de véhicules avec génération automatisée de contrats
+- Expérience pratique en **contrôle d'accès basé sur les rôles**, **traitement sécurisé des paiements** et **suivi de données en temps réel**
+- Formation avancée en développement web full-stack — **YouCode** (Octobre 2025 – Présent)
+
+<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/badr-fenni-2852b7389">
+    <img src="https://img.shields.io/badge/-LinkedIn_(Full_CV)-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:badrfny.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/baadr_fny/">
+    <img src="https://img.shields.io/badge/-Instagram-080c14?style=for-the-badge&logo=instagram&logoColor=00d4ff" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/badrfny">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub"/>
+  </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=badrfny" alt="Visitors"/>
+</div>
+
+---
